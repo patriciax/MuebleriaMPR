@@ -1,0 +1,36 @@
+2019-11-02T06:22:09+00:00 CRITICAL syntax error, unexpected '?' en /var/www/html/mpr/wp-content/themes/mpr/home.php en la línea 54
+
+2019-11-02T07:09:07+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) en /var/www/html/mpr/wp-content/themes/mpr/home.php en la línea 249
+
+2019-11-02T07:09:24+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) en /var/www/html/mpr/wp-content/themes/mpr/home.php en la línea 249
+
+2019-11-02T07:18:10+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) en /var/www/html/mpr/wp-content/themes/mpr/home.php en la línea 287
+
+2019-11-02T07:22:22+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) en /var/www/html/mpr/wp-content/themes/mpr/home.php en la línea 281
+
+2019-11-02T07:22:30+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) en /var/www/html/mpr/wp-content/themes/mpr/home.php en la línea 283
+
+2019-11-02T07:22:35+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) en /var/www/html/mpr/wp-content/themes/mpr/home.php en la línea 283
+
+2019-11-02T07:36:22+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) en /var/www/html/mpr/wp-content/themes/mpr/home.php en la línea 284
+
+2019-11-02T07:37:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /var/www/html/mpr/wp-content/themes/mpr/home.php en la línea 221
+
+2019-11-02T07:37:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /var/www/html/mpr/wp-includes/class-wp-query.php en la línea 3286
+
+2019-11-02T07:37:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /var/www/html/mpr/wp-includes/class-wp-query.php en la línea 221
+
+2019-11-02T07:37:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /var/www/html/mpr/wp-content/themes/mpr/home.php en la línea 221
+
+2019-11-02T07:37:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /var/www/html/mpr/wp-includes/class-wp-query.php en la línea 3286
+
+2019-11-02T07:50:37+00:00 CRITICAL Call to undefined function excerpt() en /var/www/html/mpr/wp-content/themes/mpr/home.php en la línea 238
+
+2019-11-02T07:51:28+00:00 CRITICAL Call to undefined function excerpt() en /var/www/html/mpr/wp-content/themes/mpr/home.php en la línea 238
+
+2019-11-02T07:51:37+00:00 CRITICAL Call to undefined function excerpt() en /var/www/html/mpr/wp-content/themes/mpr/home.php en la línea 238
+
+2019-11-02T09:06:28+00:00 CRITICAL Call to undefined function esc_html_() en /var/www/html/mpr/wp-content/themes/mpr/woocommerce/global/quantity-input.php en la línea 28
+
+2019-11-02T09:07:03+00:00 CRITICAL Call to undefined function esc_html_() en /var/www/html/mpr/wp-content/themes/mpr/woocommerce/global/quantity-input.php en la línea 28
+
